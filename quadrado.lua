@@ -12,3 +12,4 @@ while cont < num and num >1 do
 end
 
 print(quad)
+jhbhbjhb
